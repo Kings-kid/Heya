@@ -18,7 +18,7 @@ html, body{
 }
 #hero{
     height: 742px;
-    background-image: url(/images/background.jpeg);
+    background-image: url(./images/background.jpeg);
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: cover;
@@ -346,11 +346,11 @@ main #popular #popular-article h1{
     border-radius: 16px;
 }
 .grid .popular-grid#grid-left{
-    background-image: url(/images/prevent.jpg);
+    background-image: url(./images/prevent.jpg);
 }
 
 .grid .popular-grid#grid-right{
-    background-image: url(/images/motherhood.jpg);
+    background-image: url(./images/motherhood.jpg);
 }
 .grid .popular-grid .gradient-overlay .tag{
     width: 114px;
@@ -485,13 +485,13 @@ main #recent{
     border-radius: 16px;
 }
 .grid-row#one{
-    background-image: url(/images/1.png);
+    background-image: url(./images/1.png);
 }
 .grid-row#two{
-    background-image: url(/images/2.jpg);
+    background-image: url(./images/2.jpg);
 }
 .grid-row#three{
-    background-image: url(/images/3.png);
+    background-image: url(./images/3.png);
 }
 
 .grid-row .grid-column-gradient h1{
@@ -621,11 +621,11 @@ main #all{
     position: relative;
 }
 .grid .popular-grid#all-left{
-    background-image: url(/images/all-left.jpeg);
+    background-image: url(./images/all-left.jpeg);
 }
 
 .grid .popular-grid#all-right{
-    background-image: url(/images/all-right.png);
+    background-image: url(./images/all-right.png);
 }
 .user-popular-class .grid-date#all-date h4{
     font-weight: 600;
@@ -645,13 +645,13 @@ main #all{
     gap: 30px;
 }
 .grid-row#all-one{
-    background-image: url(/images/all-lower-1.png);
+    background-image: url(./images/all-lower-1.png);
 }
 .grid-row#all-two{
-    background-image: url(/images/all-lower-2.png);
+    background-image: url(./images/all-lower-2.png);
 }
 .grid-row#all-three{
-    background-image: url(/images/all-lower-3.jpeg);
+    background-image: url(./images/all-lower-3.jpeg);
 }
 .user-article .sub-date#all-date h4{
     font-weight: 600;
@@ -790,7 +790,7 @@ main #cta #cta-wave{
     margin-left: 8px;
 }
 #story-grid #story-grid-image #story .card#card-img{
-    background-image: url(/images/card.jpeg);
+    background-image: url(./images/card.jpeg);
     background-size: cover;
     background-position: bottom;
     width: 450px;
